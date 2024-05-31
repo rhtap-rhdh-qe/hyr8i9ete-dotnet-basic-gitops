@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hyr8i9ete-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hyr8i9ete-dotnet-basic
